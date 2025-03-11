@@ -80,7 +80,7 @@ function Register() {
 
   return (
     <div style={{
-      backgroundImage: "url('/food_background.jpg')",
+      backgroundImage: "url('/bg.jpg.jpg')",
       backgroundSize: "cover",
       backgroundPosition: "center",
       height: "100vh",
